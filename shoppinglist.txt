@@ -17,4 +17,6 @@
 
 添加 Amend 内容1 --- 使用AMend 修改
 
-添加 Amend 内容2
+添加 Amend 内容
+
+添加了 Amend 测试1
