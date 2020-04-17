@@ -20,3 +20,6 @@
 添加 Amend 内容
 
 添加了 Amend 测试1
+添加 Amend 内容1
+
+添加 Amend 内容2
